@@ -37,9 +37,7 @@ def create_markup(suggests, requetst_left):
 
 
 def parse_message(text):
-    text = text.replace("<",
-                        " &lt; ").replace(">",
-                                          " &gt; ").replace("&", " &amp; ")
+    text = text.replace("&", "&amp;").replace("<","&lt;").replace(">","&gt;")
     if text.startswith("[1]: "):
         text = text.split("\n\n")
         rows = text[0].split("\n")
