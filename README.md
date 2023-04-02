@@ -10,7 +10,7 @@ Instructions for launching the bot:
 
 > Make sure you have access to chat by going to bing.com and trying to chat with the AI
 
-> You need to use Edge browser to chat (or alternatively use our user-agent spoofing extension, available for Chrome and Firefox) and you may need to use a VPN
+> You need to use Edge browser to chat (or alternatively use our user-agent spoofing extension, available for [Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)) and you may need to use a VPN
 
 > Find the cookie named "_U" and copy it.
 
